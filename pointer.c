@@ -3,7 +3,7 @@
 
 int len, i, j, temp;
 int *a, *b;
-int bubble_sort();
+int bubble_sort_pointer();
 
 int main(){
     printf("Length: \n");
